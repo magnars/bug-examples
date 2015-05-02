@@ -6,6 +6,13 @@ I wouldn't call it a minimal example, but I hope to be forgiven this transgressi
 ## Check it out
 
 - well, yeah, start by checking it out. :-)
+
+  ```
+  git clone git@github.com:magnars/bug-examples.git
+  cd bug-examples
+  git checkout lein-figwheel-136
+  ```
+
 - `lein run` in one terminal
 - `lein figwheel` in another
 - Open the webpage and see more instructions there
